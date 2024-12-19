@@ -3,7 +3,7 @@
 
 echo "29 d ejunio";
 
-echo "ESTO ES UNA MODIFICACION 2"
+echo "ESTO ES UNA MODIFICACION x"
 
 
 ?>
